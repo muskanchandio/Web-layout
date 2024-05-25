@@ -1,0 +1,254 @@
+*{
+    margin: 0%;
+    padding:0%;
+
+}
+body{
+    font-family: "Times New Roman", Georgia, Serif;
+}
+.nav{
+    display: flex;
+nav-index: initial;
+
+}
+.left{
+    flex-basis: 50%;
+   
+    font-size: 18px;
+    
+    padding: 20px;
+
+
+}
+i:hover{
+    background-color: lightgrey;
+    padding: 10px 20px;
+}
+
+.right ul{
+ display:flex;
+ list-style: none;
+ margin-left: 600px;
+ margin-right: 20px;
+
+
+ 
+
+}
+
+li{
+    
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 10px 20px;
+}
+li:hover{
+    background-color: lightgrey;
+
+}
+
+.sec2{ 
+     background-image: url(hamburger.jpg);
+    height: 700px;
+
+    width: 100%;
+  
+     
+
+}
+
+#i1{
+   
+    font-size: 55px;
+    color: gray;
+    margin-left: 20px;
+    margin-top: 580px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+    
+   
+    
+} 
+#p5{
+    margin-top: 0%;
+}
+
+
+.sec3{
+    display: flex;
+    border: none;
+    outline: none;
+ margin-bottom: 100px;
+ 
+}
+    
+.child1{
+    flex-basis: 50%;
+   margin-left: 250px;
+    margin-top: 90px;
+   
+  
+
+   
+}
+
+.child2{
+    flex-basis: 50%;
+    margin-right: 250px;
+    
+    
+}
+
+#p1{
+    font-size: 40px;
+    margin-top: 110px;
+    text-align: center;
+    color: black;
+    letter-spacing: 5px;
+}
+
+#p2{
+    margin: 0%;
+    color: black;
+    font-size: 15px;
+    letter-spacing: 5px;
+    margin-left: 150px;
+    margin-top: 60px;
+
+}
+#p3{
+    
+    color: black;
+    font-size:19px;
+    margin-top: 40px;
+  
+    margin-left: 30px;
+    
+}
+
+#p4{
+    color: grey;
+    font-size: 19px;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+}
+img{
+    width: 500px;
+    opacity: 0.7;
+   
+
+}
+.sec4{
+    display: flex;
+    border-top: 1px solid gainsboro;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.box1{
+    flex-basis: 50%;
+
+}
+.box2{
+    flex-basis: 50%;
+    margin-top: 100px;
+    margin-left:50px;
+}
+#m1{
+    width: 500px;
+    opacity: 0.8;
+
+    
+}
+#p6{
+    font-size: 36px;
+    text-align: center;
+    color: black;
+    letter-spacing: 5px;
+    margin-top: 120px;
+}
+#p7{
+    margin-top: 50px;
+    font-size: 20px;
+    color: black;
+    letter-spacing: 5px;
+}
+#p8{
+    margin-top: 20px;
+    font-size: 15px;
+    color: grey;
+}
+.sec5{
+    margin-left: 250px;
+    margin-right: 250px;
+    border-top: 1px solid gainsboro;
+    margin-top: 100px;
+}
+#p12{
+    color: black;
+    font-size: 38px;
+    margin-top: 100px;
+    letter-spacing: 5px;
+}
+#p9{
+    color: black;
+    font-size: 16px;
+margin-top: 50px;
+
+}
+#p10{
+    color: rgb(76, 123, 124);
+    margin-top: 30px;
+    font-size: 18px;
+   
+}
+#p11{
+    font-size: 16px;
+    margin-top: 50px;
+    color: black;
+    margin-top: 20px
+}
+input{
+
+    width: 100%;
+   
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    border-right:1px solid white ;
+    border-bottom: 1px soild rgb(160, 160, 160);
+    outline: none;
+    padding: 18px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+
+
+}
+ input:hover{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+button{
+border: none;
+background-color: rgb(235, 232, 232);
+padding:  12px 18px;
+font-size: 15px;
+margin-top:   30px;
+}
+button:hover{
+    background-color: rgb(207, 207, 207);
+}
+.last{
+    display: flex;
+    height: 30px;
+    margin-top: 100px;
+    background-color: rgb(233, 233, 233);
+    padding: 50px 0px;
+
+}
+.m3{
+    flex-basis: 10%;
+    color: black;
+    font-size: 15px;
+   margin-left: 500px;
+}
